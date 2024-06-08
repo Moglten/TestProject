@@ -1,0 +1,51 @@
+﻿@page
+@model ClientProductApp.Pages.ProductPages.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+
+<div class="d-flex justify-content-center align-items-center" style="height: 100vh;">
+    <div class="text-center  w-50">
+
+        <h1 class="h3 text-gray-900 m-4">Create a Product!</h1>
+
+        <form class="user" id="Product" method="post">
+            <div class="form-group row">
+                <div class="col-lg-12 col-sm-6 mb-3">
+                    <input asp-for="Product.Name" type="text" class="form-control form-control-user" id="exampleFirstName" placeholder="Name">
+                    <span asp-validation-for="Product.Name" class="text-danger"></span>
+
+                </div>
+                <div class="col-lg-12 col-sm-6">
+                    <textarea asp-for="Product.Description" type="text" class="form-control form-control-user" id="exampleFirstName" placeholder="Discription"></textarea>
+                    <span asp-validation-for="Product.Description" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Product.IsActive" /> @Html.DisplayNameFor(model => model.Product.IsActive)
+                </label>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-user btn-block">
+                Submit
+            </button>
+
+        </form>
+
+    </div>
+</div>
+
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

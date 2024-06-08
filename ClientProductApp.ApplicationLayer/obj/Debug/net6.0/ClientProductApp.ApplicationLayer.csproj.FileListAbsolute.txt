@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.ApplicationLayer\bin\Debug\net6.0\ClientProductApp.ApplicationLayer.deps.json
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.ApplicationLayer\bin\Debug\net6.0\ClientProductApp.ApplicationLayer.dll
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.ApplicationLayer\bin\Debug\net6.0\ClientProductApp.ApplicationLayer.pdb
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.ApplicationLayer\bin\Debug\net6.0\ClientProductApp.DomainLayer.dll
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.ApplicationLayer\bin\Debug\net6.0\ClientProductApp.DomainLayer.pdb
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.ApplicationLayer\obj\Debug\net6.0\ClientProductApp.ApplicationLayer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.ApplicationLayer\obj\Debug\net6.0\ClientProductApp.ApplicationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.ApplicationLayer\obj\Debug\net6.0\ClientProductApp.ApplicationLayer.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.ApplicationLayer\obj\Debug\net6.0\ClientProductApp.ApplicationLayer.AssemblyInfo.cs
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.ApplicationLayer\obj\Debug\net6.0\ClientProductApp.ApplicationLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.ApplicationLayer\obj\Debug\net6.0\ClientPr.09432979.Up2Date
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.ApplicationLayer\obj\Debug\net6.0\ClientProductApp.ApplicationLayer.dll
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.ApplicationLayer\obj\Debug\net6.0\refint\ClientProductApp.ApplicationLayer.dll
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.ApplicationLayer\obj\Debug\net6.0\ClientProductApp.ApplicationLayer.pdb
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.ApplicationLayer\obj\Debug\net6.0\ref\ClientProductApp.ApplicationLayer.dll

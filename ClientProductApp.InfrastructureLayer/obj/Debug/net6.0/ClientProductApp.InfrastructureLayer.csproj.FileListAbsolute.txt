@@ -1,0 +1,5 @@
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\obj\Debug\net6.0\ClientProductApp.InfrastructureLayer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\obj\Debug\net6.0\ClientProductApp.InfrastructureLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\obj\Debug\net6.0\ClientProductApp.InfrastructureLayer.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\obj\Debug\net6.0\ClientProductApp.InfrastructureLayer.AssemblyInfo.cs
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\obj\Debug\net6.0\ClientProductApp.InfrastructureLayer.csproj.CoreCompileInputs.cache

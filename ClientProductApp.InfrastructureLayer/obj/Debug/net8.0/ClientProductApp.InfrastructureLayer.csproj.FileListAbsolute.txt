@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\bin\Debug\net8.0\ClientProductApp.InfrastructureLayer.deps.json
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\bin\Debug\net8.0\ClientProductApp.InfrastructureLayer.runtimeconfig.json
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\bin\Debug\net8.0\ClientProductApp.InfrastructureLayer.dll
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\bin\Debug\net8.0\ClientProductApp.InfrastructureLayer.pdb
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\bin\Debug\net8.0\ClientProductApp.DomainLayer.dll
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\bin\Debug\net8.0\ClientProductApp.DomainLayer.pdb
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\obj\Debug\net8.0\ClientProductApp.InfrastructureLayer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\obj\Debug\net8.0\ClientProductApp.InfrastructureLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\obj\Debug\net8.0\ClientProductApp.InfrastructureLayer.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\obj\Debug\net8.0\ClientProductApp.InfrastructureLayer.AssemblyInfo.cs
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\obj\Debug\net8.0\ClientProductApp.InfrastructureLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\obj\Debug\net8.0\ClientPr.8EDBE051.Up2Date
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\obj\Debug\net8.0\ClientProductApp.InfrastructureLayer.dll
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\obj\Debug\net8.0\refint\ClientProductApp.InfrastructureLayer.dll
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\obj\Debug\net8.0\ClientProductApp.InfrastructureLayer.pdb
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\obj\Debug\net8.0\ClientProductApp.InfrastructureLayer.genruntimeconfig.cache
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.InfrastructureLayer\obj\Debug\net8.0\ref\ClientProductApp.InfrastructureLayer.dll

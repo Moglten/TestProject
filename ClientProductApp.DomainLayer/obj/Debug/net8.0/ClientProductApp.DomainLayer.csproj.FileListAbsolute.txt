@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.DomainLayer\bin\Debug\net8.0\ClientProductApp.DomainLayer.deps.json
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.DomainLayer\bin\Debug\net8.0\ClientProductApp.DomainLayer.dll
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.DomainLayer\bin\Debug\net8.0\ClientProductApp.DomainLayer.pdb
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.DomainLayer\obj\Debug\net8.0\ClientProductApp.DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.DomainLayer\obj\Debug\net8.0\ClientProductApp.DomainLayer.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.DomainLayer\obj\Debug\net8.0\ClientProductApp.DomainLayer.AssemblyInfo.cs
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.DomainLayer\obj\Debug\net8.0\ClientProductApp.DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.DomainLayer\obj\Debug\net8.0\ClientProductApp.DomainLayer.dll
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.DomainLayer\obj\Debug\net8.0\refint\ClientProductApp.DomainLayer.dll
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.DomainLayer\obj\Debug\net8.0\ClientProductApp.DomainLayer.pdb
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.DomainLayer\obj\Debug\net8.0\ref\ClientProductApp.DomainLayer.dll
+C:\Users\HP\source\repos\ClientProductApp\ClientProductApp.DomainLayer\obj\Debug\net8.0\ClientProductApp.DomainLayer.csproj.AssemblyReference.cache

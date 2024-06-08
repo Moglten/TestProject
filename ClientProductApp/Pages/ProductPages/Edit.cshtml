@@ -1,0 +1,54 @@
+﻿@page
+@model ClientProductApp.Pages.ProductPages.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+
+<div class="d-flex justify-content-center align-items-center" style="height: 100vh;">
+    <div class="text-center w-50">
+
+        <h1 class="h3 text-gray-900 m-4">Edit a Product!</h1>
+        <hr />
+        <div class="row">
+            <div class="col-12">
+                <form method="post">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="Product.Name" class="control-label"></label>
+                        <input asp-for="Product.Name" class="form-control" placeholder="Name" />
+                        <span asp-validation-for="Product.Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Product.Description" class="control-label"></label>
+                        <textarea style="height:170px;" asp-for="Product.Description" class="form-control" placeholder="Description"></textarea>
+                        <span asp-validation-for="Product.Description" class="text-danger"></span>
+                    </div>
+                    <div class="form-group form-check">
+                        <label class="form-check-label">
+                            <input class="form-check-input" asp-for="Product.IsActive" /> @Html.DisplayNameFor(model => model.Product.IsActive)
+                        </label>
+                    </div>
+                    <input type="hidden" asp-for="Product.Id" />
+                    <div class="form-group">
+                        <input type="submit" value="Save" class="btn btn-primary" /> |
+                        <a asp-page="./Index">Back to List</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div>
+           
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

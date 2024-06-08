@@ -1,0 +1,41 @@
+﻿@page
+@model ClientProductApp.Pages.ClientPages.AttachProductModel
+@{
+    ViewData["Title"] = "Product Attach";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<div class="m-5">
+    <h1 class="text-center">Attach Product To</h1>
+    <form method="post">
+    <div>
+            <input type="hidden"  value="@Model.ClientProducts.ClientId" asp-for="@Model.ClientProducts.ClientId" />
+            <input type="hidden" value="@Model.ClientProducts.ClientName" asp-for="@Model.ClientProducts.ClientName" />
+        <h2 class="text-center">Client <strong>@Model.ClientProducts.ClientName</strong> With Code <strong>@Model.ClientProducts.Code</strong></h2>
+    </div>
+    <hr />
+        <div  class="row m-5">
+            @for (var i = 0; i < Model.ClientProducts.ProductsCheckBoxes.Count; i++)
+            {
+                <div class="form-group form-check col-3 col-xl-3 col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <label class="form-check-label">
+                        <input type="hidden" value="@Model.ClientProducts.ProductsCheckBoxes[i].Id" asp-for="@Model.ClientProducts.ProductsCheckBoxes[i].Id" />
+
+                        <input class="form-check-input" asp-for="@Model.ClientProducts.ProductsCheckBoxes[i].IsChecked" /> <label asp-for="@Model.ClientProducts.ProductsCheckBoxes[i].Text">@Model.ClientProducts.ProductsCheckBoxes[i].Text</label>
+                    </label>
+                </div>
+                
+            }
+        </div>
+        <div class="row text-center">
+            <div class="form-group">
+                <input type="submit" value="Submit" class="btn btn-primary" /> | 
+                <a class="btn btn-outline-secondry" asp-page="./Index">Back to List</a>
+            </div>
+        </div>
+    </form>
+
+
+</div>
+
+
